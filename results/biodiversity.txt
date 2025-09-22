@@ -1,0 +1,4 @@
+Richness: 5.0000
+Shannon Diversity: 1.6033
+Simpson Diversity: 0.7976
+Evenness: 0.9962
